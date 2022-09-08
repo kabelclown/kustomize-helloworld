@@ -1,0 +1,10 @@
+namePrefix: dev-
+commonLabels:
+  variant: dev
+  org: acmeCorporation
+commonAnnotations:
+  note: Hello, I am staging!
+resources:
+- ../../base
+patchesStrategicMerge:
+- map.yaml
