@@ -1,4 +1,4 @@
-namePrefix: dev-
+nameSuffix: -dev
 commonLabels:
   variant: dev
   org: acmeCorporation
